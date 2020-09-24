@@ -1,0 +1,27 @@
+.app{
+    width: 100%;
+    max-width: 1440px;
+}
+
+.input-addres{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: 1px solid gray;
+    padding-left: 5px;
+    height: 20px;
+}
+
+.list-api{
+    display: none;
+    position: relative;
+    width: 100%;
+    border: 1px solid gray;
+    padding-left: 5px;
+    margin-top: 3px;
+}
+
+.list-api_item:hover{
+    cursor: pointer;
+    background-color: yellow;
+}
